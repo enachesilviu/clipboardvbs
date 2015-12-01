@@ -24,6 +24,6 @@ Example
 select file a.txt and folder B will get you this list:
 
 1. B
-2. a
+2. a.txt
 
 *Folders are placed first*
